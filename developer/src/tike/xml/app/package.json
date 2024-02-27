@@ -7,6 +7,6 @@
   },
   "homepage": "https://keyman.com/",
   "dependencies": {
-    "monaco-editor": "0.15.6"
+    "monaco-editor": "0.45.0"
   }
 }
